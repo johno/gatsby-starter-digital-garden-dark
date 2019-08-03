@@ -4988,7 +4988,7 @@ gatsby-telemetry@^1.1.11:
     stack-utils "1.0.2"
     uuid "3.3.2"
 
-gatsby-theme-digital-garden@^0.2.1:
+gatsby-theme-digital-garden@^0.2.2:
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/gatsby-theme-digital-garden/-/gatsby-theme-digital-garden-0.2.2.tgz#9590d9f91a2a14d11c9663a2d60553d2ab6e59a1"
   integrity sha512-e2cmTBsLjsV2oU2u88yOlv7l9YcGE6Urk8Cc3grCUcq2ILO4wXTyjXGA3p5DoAPc960yGiBXS3xnkeuwfLGEfA==
